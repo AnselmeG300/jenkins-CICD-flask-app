@@ -1,1 +1,1 @@
-# jenkins-mini-projet
+# jenkins-deploy-flask-app
